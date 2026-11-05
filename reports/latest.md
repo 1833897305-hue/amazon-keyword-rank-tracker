@@ -1,4 +1,4 @@
-# Amazon Keyword Rank Report — 2026-11-04
+# Amazon Keyword Rank Report — 2026-11-05
 
 Tracked with [amazon-keyword-rank-tracker](https://github.com/pangolinfoapi/amazon-keyword-rank-tracker) using the [Pangolinfo Scrape API](https://www.pangolinfo.com).
 
@@ -16,6 +16,8 @@ Tracked with [amazon-keyword-rank-tracker](https://github.com/pangolinfoapi/amaz
 
 | checked_at (UTC) | ASIN | keyword | position | organic | page |
 |---|---|---|---|---|---|
+| 2026-11-05T07:41:06+00:00 | B0FJSM9LWL | tissue | — | — | — |
+| 2026-11-05T07:41:06+00:00 | B0FJSM9LWL | hanging | — | — | — |
 | 2026-11-04T07:13:07+00:00 | B0FJSM9LWL | tissue | — | — | — |
 | 2026-11-04T07:13:07+00:00 | B0FJSM9LWL | hanging | — | — | — |
 | 2026-11-03T07:32:00+00:00 | B0FJSM9LWL | tissue | — | — | — |
