@@ -1,4 +1,4 @@
-# Amazon Keyword Rank Report — 2026-11-05
+# Amazon Keyword Rank Report — 2026-11-06
 
 Tracked with [amazon-keyword-rank-tracker](https://github.com/pangolinfoapi/amazon-keyword-rank-tracker) using the [Pangolinfo Scrape API](https://www.pangolinfo.com).
 
@@ -16,6 +16,8 @@ Tracked with [amazon-keyword-rank-tracker](https://github.com/pangolinfoapi/amaz
 
 | checked_at (UTC) | ASIN | keyword | position | organic | page |
 |---|---|---|---|---|---|
+| 2026-11-06T07:38:14+00:00 | B0FJSM9LWL | tissue | — | — | — |
+| 2026-11-06T07:38:14+00:00 | B0FJSM9LWL | hanging | — | — | — |
 | 2026-11-05T07:41:06+00:00 | B0FJSM9LWL | tissue | — | — | — |
 | 2026-11-05T07:41:06+00:00 | B0FJSM9LWL | hanging | — | — | — |
 | 2026-11-04T07:13:07+00:00 | B0FJSM9LWL | tissue | — | — | — |
@@ -214,4 +216,3 @@ Tracked with [amazon-keyword-rank-tracker](https://github.com/pangolinfoapi/amaz
 | 2026-07-29T03:58:41+00:00 | B0DYTF8L2W | bluetooth earbuds | — | — | — |
 | 2026-07-28T03:54:26+00:00 | B0DYTF8L2W | wireless earbuds | — | — | — |
 | 2026-07-28T03:54:26+00:00 | B0DYTF8L2W | bluetooth earbuds | — | — | — |
-| 2026-07-27T11:14:35+00:00 | B0H5VN7MDL | wireless earbuds | 1 | 1 | 1 |
